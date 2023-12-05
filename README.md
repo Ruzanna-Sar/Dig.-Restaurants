@@ -1,5 +1,5 @@
 # Dig.-Restaurants
-[Dig Inn](https://www.diginn.com/)Dig is an American chain of locally farm sourced restaurants that was founded in 2011.
+[Dig Inn](https://www.diginn.com/) is an American chain of locally farm sourced restaurants that was founded in 2011.
 Although Dig Inn has already demonstrated robust sales, the focus is now on gaining deeper insights into order trends to further enhance their understanding and performance.
 
 ## Objective
