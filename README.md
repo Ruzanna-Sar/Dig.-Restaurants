@@ -6,7 +6,7 @@ Although Dig Inn has already demonstrated robust sales, the focus is now on gain
 The main objectives of this project were to address the following business questions:
 
 1. Identify the restaurant(s) with the highest order volume.
-2. Determine the most popular order type among in-store, pick-up, and delivery. Investigate any delivery variations across the eight restaurants.
+2. Determine the most popular order type among in-store, pick-up, and delivery. Investigate any delivery variations across the restaurants.
 3. Identify peak and non-peak months and days, assessing whether these patterns are consistent across all restaurants.
 4. Develop customer segmentation strategies for improved management purposes.
 
