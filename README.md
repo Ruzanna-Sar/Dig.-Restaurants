@@ -14,7 +14,7 @@ The main objectives of this project were to address the following business quest
 For this project the following python libraries were used:
 * pandas, numpy- for data analysis
 * seaborn, matplotlib - for visualisation
-* statsmodels,
+* statsmodels - for time series analysis
 * sklearn -for regression and KMeans analysis
 
 ## Data
